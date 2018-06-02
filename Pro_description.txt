@@ -1,0 +1,1 @@
+This project tells about 7 segment working on lpc1768
